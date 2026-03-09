@@ -1,1 +1,2 @@
 this is the newfeature.txt
+this is a main
